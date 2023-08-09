@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.tab-item {
+  font-size: 14px;
+}
+.tab-button-active {
+  color: #1079e9;
+}
+.tab-button {
+  color: #7b8794;
+}

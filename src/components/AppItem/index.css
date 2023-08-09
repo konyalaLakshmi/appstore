@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  border-radius: 12px;
+  background-color: #ffffff;
+  margin: 8px;
+  max-width: 130px;
+  width: 45px;
+}
+.app-image {
+  height: 70px;
+  width: 70px;
+}
+.app-name {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  color: #1e293b;
+}
